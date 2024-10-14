@@ -6,7 +6,7 @@
 
 - https://nodejs.org/en - nodejs 官网文档。
 
-## 📝 notes - 新版 nodejs
+## 📒 notes - 新版 nodejs
 
 ![](md-imgs/2024-10-04-19-31-59.png)
 
@@ -21,7 +21,7 @@ $ node -v
 # v20.10.0
 ```
 
-## 📝 notes - 旧版 nodejs
+## 📒 notes - 旧版 nodejs
 
 **安装 nodejs**
 
