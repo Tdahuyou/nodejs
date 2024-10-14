@@ -4,7 +4,7 @@
 
 - https://nodejs.org/en - NodeJS 官方文档 - 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
 - https://github.com/Tdahuyou/nodejs.git - Github - nodejs 笔记。
-- https://www.yuque.com/huyouda/programming-public - yuque - nodejs 笔记。
+- https://www.yuque.com/tdahuyou/notes - yuque - nodejs 笔记。
 
 ```bash
 # 一键克隆最新版代码
