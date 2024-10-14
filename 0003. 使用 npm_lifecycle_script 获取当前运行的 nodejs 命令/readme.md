@@ -3,17 +3,17 @@
 - npm_lifecycle_script 是什么
 - npm_lifecycle_script 有啥用
 
-## 📝 notes - npm_lifecycle_script 是什么?
+## 📒 notes - npm_lifecycle_script 是什么?
 
 `process.env.npm_lifecycle_script` 是 **Node.js 中的一个环境变量**，它包含当前正在运行的 npm 脚本的 **实际命令字符串**。这是在使用 npm 脚本时，**npm 自动注入** 的一部分环境变量之一。
 
 当你运行一个 npm 脚本时，比如 `npm start` 或 `npm run build`，npm 会设置一系列的环境变量，这些环境变量可以在你的 Node.js 应用程序中访问。`process.env.npm_lifecycle_script` 就是其中之一，它表示 **当前 npm 脚本正在执行的命令**。
 
-## 📝 notes - npm_lifecycle_script 的作用
+## 📒 notes - npm_lifecycle_script 的作用
 
 `npm_lifecycle_script` 可以帮你捞到当前正在运行的 npm 脚本，若程序中有相关逻辑需要读取当前正在运行的 npm 脚本，可以利用 `process.env.npm_lifecycle_script` 这个环境变量。
 
-## 📝 notes - 运行示例
+## 📒 notes - 运行示例
 
 ```bash
 # 执行命令
