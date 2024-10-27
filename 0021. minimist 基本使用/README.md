@@ -7,7 +7,7 @@
 - https://github.com/minimistjs/minimist
   - github minimist
 
-## 🤖 ai - `node 1.js args` 如何在 1.js 中获取到 args？
+## 🤖 AI - `node 1.js args` 如何在 1.js 中获取到 args？
 
 在 Node.js 中，你可以通过 `process.argv` 数组来获取传递给脚本的命令行参数。`process.argv` 是一个数组，包含了当Node.js启动时的命令行参数。数组的第一个元素是运行Node.js的可执行文件的路径，第二个元素通常是正在执行的JavaScript文件的路径。从第三个元素开始，才是你实际传入的参数。
 
