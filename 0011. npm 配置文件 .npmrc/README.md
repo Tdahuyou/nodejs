@@ -1,4 +1,4 @@
-# 📝 笔记
+# [0011. npm 配置文件 .npmrc](https://github.com/Tdahuyou/nodejs/tree/main/0011.%20npm%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%20.npmrc)
 
 ## 📝 npmrc 全称
 

@@ -1,4 +1,4 @@
-# 💻 测试 prepublish 的自动执行
+# [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/nodejs/tree/main/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
 
 新建一个 [1.js](./1.js) 模块，内容如下：
 

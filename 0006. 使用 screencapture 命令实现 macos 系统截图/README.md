@@ -1,4 +1,4 @@
-# 0006. 使用 screencapture 命令实现 macos 系统截图
+# [0006. 使用 screencapture 命令实现 macos 系统截图](https://github.com/Tdahuyou/nodejs/tree/main/0006.%20%E4%BD%BF%E7%94%A8%20screencapture%20%E5%91%BD%E4%BB%A4%E5%AE%9E%E7%8E%B0%20macos%20%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE)
 
 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
 

@@ -1,4 +1,4 @@
-# 0014. 如何使用 nvm 管理 nodejs 版本
+# [0014. 如何使用 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC)
 
 ## 📝 summary
 

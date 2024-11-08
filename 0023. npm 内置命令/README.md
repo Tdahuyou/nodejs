@@ -1,4 +1,4 @@
-# 0023. npm 内置命令
+# [0023. npm 内置命令](https://github.com/Tdahuyou/nodejs/tree/main/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4)
 
 - 知道什么是 npm 内置命令。
 - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。

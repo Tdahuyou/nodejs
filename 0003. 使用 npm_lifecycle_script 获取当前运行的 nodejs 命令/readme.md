@@ -1,4 +1,4 @@
-# 0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令
+# [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4)
 
 - npm_lifecycle_script 是什么
 - npm_lifecycle_script 有啥用

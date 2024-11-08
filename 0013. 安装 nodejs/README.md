@@ -1,4 +1,4 @@
-# 0013. 安装 nodejs
+# [0013. 安装 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0013.%20%E5%AE%89%E8%A3%85%20nodejs)
 
 - 视频：✅
 

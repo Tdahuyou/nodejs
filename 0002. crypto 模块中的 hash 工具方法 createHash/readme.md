@@ -1,4 +1,4 @@
-## 将数据转为 16 进制的目的是什么？
+# [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/Tdahuyou/nodejs/tree/main/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash)
 
 生成唯一标识符：
 在需要生成唯一标识符的场景下，使用字符串的十六进制表示形式可以确保唯一性。
