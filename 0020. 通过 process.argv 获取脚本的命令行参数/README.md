@@ -1,5 +1,6 @@
 # [0020. 通过 process.argv 获取脚本的命令行参数](https://github.com/Tdahuyou/nodejs/tree/main/0020.%20%E9%80%9A%E8%BF%87%20process.argv%20%E8%8E%B7%E5%8F%96%E8%84%9A%E6%9C%AC%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0)
 
+
 ## 🤖 AI - `node 1.js args` 如何在 1.js 中获取到 args？
 
 在 Node.js 中，你可以通过 `process.argv` 数组来获取传递给脚本的命令行参数。`process.argv` 是一个数组，包含了当Node.js启动时的命令行参数。数组的第一个元素是运行Node.js的可执行文件的路径，第二个元素通常是正在执行的JavaScript文件的路径。从第三个元素开始，才是你实际传入的参数。

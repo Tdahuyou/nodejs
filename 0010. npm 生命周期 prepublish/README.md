@@ -1,13 +1,10 @@
 # [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/nodejs/tree/main/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
 
 新建一个 [1.js](./1.js) 模块，内容如下：
-
 ```js
 console.log('call 1.js')
 ```
-
 新建一个 [package.json](./package.json) 模块，内容如下：
-
 ```json
 {
   "name": "demo",
@@ -20,13 +17,9 @@ console.log('call 1.js')
   }
 }
 ```
-
 执行 `npm i` 安装依赖。（如果存在 node_modules，将其删除后再执行 npm i）
-
 会发现 prepublish 中配置的命令 `node 1.js` 自动执行了，`1.js` 执行后输出了 `call 1.js`。
-
 ![](md-imgs/2024-09-20-15-19-24.png)
-
 # 🤖 AI
 
 ## 🤖 请介绍一下 package.json 中的 scripts 字段下的 prepublish
