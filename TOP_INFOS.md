@@ -181,6 +181,13 @@ console.log('call 1.js')
 
 
 <!-- !====================>分隔符<====================! -->
+### [0024. npm link 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8) <!-- [locale](./0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->
+
+- 本节介绍了 `npm link` 的基本使用。
+- 重点在于理解 `npm link` 的应用场景，主要用于解决什么问题。
+
+
+<!-- !====================>分隔符<====================! -->
 ### [9999. template](https://github.com/Tdahuyou/nodejs/tree/main/9999.%20template) <!-- [locale](./9999.%20template/README.md) -->
 
 
