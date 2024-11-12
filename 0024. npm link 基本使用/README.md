@@ -70,7 +70,7 @@ module.exports = {
 - 验证符号链接是否已经创建：
   - 按下 ctrl 并点击 my-module，快速跳转到 my-module 所在位置，会发现打开的是 `demo/my-module/index.js` 而非 `demo/a/node_modules/my-module/index.js`，这就意味着软链接已经生效了。
   - ![](./md-imgs/1.gif)
-  - 可以尝试先运行 1.js 看看打印结果，然后修改 `demo/my-module/index.js` 中的内容，比如在结尾加上一条打印语句 `console.(123)` 然后再运行 1.js 看看打印结果，如果 `123` 输出了，这就意味着符号链接已经生效了。
+  - 可以尝试先运行 1.js 看看打印结果，然后修改 `demo/my-module/index.js` 中的内容，比如在结尾加上一条打印语句 `console.log(123)` 然后再运行 1.js 看看打印结果，如果 `123` 输出了，这就意味着符号链接已经生效了。
 
 ## 📒 notes - 和 link 相关的命令
 
@@ -82,7 +82,7 @@ module.exports = {
   - 接下来，导航到 `my-project` 的根目录，然后运行：`npm link my-module`。这会在 `my-project` 的 `node_modules` 目录中创建一个符号链接，指向全局 `npm` 路径中的 `my-module`。
 - `npm unlink my-module` - 卸载链接
   - 当你不再需要链接时，可以卸载链接。导航到 `my-project` 的根目录，然后运行：`npm unlink my-module`。这会删除 `my-project` 的 `node_modules` 目录中的符号链接。
-- `npm unlink` - 删除全局 `npm` 路径中的符号链接
+- `npm unlink` 或者 `npm unlink -g my-module` - 删除全局 `npm` 路径中的符号链接
   - 导航到 `my-module` 的根目录，然后运行：`npm unlink`。这会删除全局 `npm` 路径中的符号链接。
 - `npm ls --global --depth=0` - 查看全局安装的包
   - 使用 `npm ls --global` 这个命令会列出所有全局安装的包及其依赖关系，包括任何通过 `npm link` 创建的软链接。
@@ -120,7 +120,7 @@ $ npm ls --global
 2. 场景2：你正在开发项目 A，这个项目 A 中依赖了某个开源的第三方库 B，但是 B 中的一些功能并不符合你的预期，而且你又找不到更好的库来替换 B 了，这时候你考虑修改 B 中的代码来解决问题。
    1. 修改流程：
       1. git clone B 到本地，然后修改 B 的代码。
-      2. 然后 npm link B，在本地创建 B 的软链接。
+      2. 然后在本地创建 B 的软链接 - 切换到 B 所在的目录，执行 npm link 命令。
       3. 然后切换到项目 A 中，执行 npm link B，此时项目 A 中就会引用你修改后的 B。
       4. 注意：当你修改完 B 的源码后，往往还需要执行一下 B 的打包命令，出个包，因为 A 中引入的往往是 B 的打包产物。
       5. 注意：A 在打包的时候会根据软链接找到 B，因此不需要担心这个问题 —— B 不在 A 的 node_modules 中，A 打包的时候会不会找不到 B。
