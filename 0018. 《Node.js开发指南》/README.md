@@ -1,16 +1,23 @@
 # [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B)
 
 
-## 📝 summary
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 《Node.js开发指南》 简介](#3--notes---nodejs开发指南-简介)
+<!-- endregion:toc -->
+
+
+## 1. 📝 summary
 
 - [《Node.js开发指南》 PDF](./Node.js开发指南.pdf)
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://book.douban.com/subject/30247892/
   - 豆瓣 - 《Node.js开发指南》
 
-## 📒 notes - 《Node.js开发指南》 简介
+## 3. 📒 notes - 《Node.js开发指南》 简介
 
 - 豆瓣评分（24.10.21）：
   - ![](md-imgs/2024-10-21-02-49-21.png)

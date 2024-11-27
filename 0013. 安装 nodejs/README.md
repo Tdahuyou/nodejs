@@ -1,12 +1,21 @@
 # [0013. 安装 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0013.%20%E5%AE%89%E8%A3%85%20nodejs)
 
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 新版 nodejs](#3--notes---新版-nodejs)
+- [4. 📒 notes - 旧版 nodejs](#4--notes---旧版-nodejs)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
 - 视频：✅
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://nodejs.org/en - nodejs 官网文档。
 
-## 📒 notes - 新版 nodejs
+## 3. 📒 notes - 新版 nodejs
 
 ![](md-imgs/2024-10-04-19-31-59.png)
 
@@ -21,7 +30,7 @@ $ node -v
 # v20.10.0
 ```
 
-## 📒 notes - 旧版 nodejs
+## 4. 📒 notes - 旧版 nodejs
 
 **安装 nodejs**
 

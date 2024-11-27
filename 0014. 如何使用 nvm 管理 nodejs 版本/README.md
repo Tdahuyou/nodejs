@@ -1,7 +1,22 @@
 # [0014. 如何使用 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC)
 
 
-## 📝 summary
+
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes](#3--notes)
+- [4. 💻 demo - `nvm ls` 查看本地安装的所有 nodejs 版本](#4--demo---nvm-ls-查看本地安装的所有-nodejs-版本)
+- [5. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs](#5--demo---nvm-install-<version>-安装指定版本的-nodejs)
+- [6. `nvm use <version>` 使用指定版本的 nodejs](#6-nvm-use-<version>-使用指定版本的-nodejs)
+- [7. 🤖 如何下载 nvm 管理 nodejs 版本](#7--如何下载-nvm-管理-nodejs-版本)
+  - [7.1. 安装 NVM](#71-安装-nvm)
+  - [7.2. 设置 NVM](#72-设置-nvm)
+  - [7.3. 使用 NVM 安装 Node.js](#73-使用-nvm-安装-nodejs)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
 
 - 以下是 nvm 的一些常用命令
   - `nvm ls` 查看本地安装的所有 nodejs 版本。
@@ -12,14 +27,14 @@
   - 也可以通过 `nvm ls` 来查看，前面带有星号 * 的版本为当前使用的版本。
 - 官方文档的 README.md 内容很全，详细介绍可以参考官方文档。
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://github.com/nvm-sh/nvm
   - github nvm
 
-## 📒 notes
+## 3. 📒 notes
 
-## 💻 demo - `nvm ls` 查看本地安装的所有 nodejs 版本
+## 4. 💻 demo - `nvm ls` 查看本地安装的所有 nodejs 版本
 
 ```bash
 nvm ls
@@ -27,7 +42,7 @@ nvm ls
 
 ![](md-imgs/2024-10-16-11-38-15.png)
 
-## 💻 demo - `nvm install <version>` 安装指定版本的 nodejs
+## 5. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs
 
 ```bash
 nvm install 14
@@ -35,7 +50,7 @@ nvm install 14
 
 ![](md-imgs/2024-10-16-13-06-49.png)
 
-## `nvm use <version>` 使用指定版本的 nodejs
+## 6. `nvm use <version>` 使用指定版本的 nodejs
 
 ```bash
 node -v
@@ -46,12 +61,12 @@ node -v
 ![](md-imgs/2024-10-16-13-08-41.png)
 
 
-## 🤖 AI - 如何下载 nvm 管理 nodejs 版本
+## 7. 🤖 如何下载 nvm 管理 nodejs 版本
 
 
 要使用 NVM（Node Version Manager）来管理 Node.js 的不同版本，首先你需要安装 NVM。以下是安装 NVM 并使用它来管理 Node.js 版本的步骤：
 
-### 安装 NVM
+### 7.1. 安装 NVM
 
 1. **对于 macOS 和 Linux 用户**:
 
@@ -71,11 +86,11 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 Windows 用户可以使用 Chocolatey, Scoop 或者直接从 [NVM for Windows](https://github.com/coreybutler/nvm-windows) 下载安装包进行安装。
 
-### 设置 NVM
+### 7.2. 设置 NVM
 
 - 在安装完成后，关闭并重新打开终端（或在当前终端中运行 `source ~/.bashrc` 或 `source ~/.zshrc` 如果你使用的是 ZSH shell），使更改生效。
 
-### 使用 NVM 安装 Node.js
+### 7.3. 使用 NVM 安装 Node.js
 
 1. 列出所有可安装的 Node.js 版本：
 ```sh

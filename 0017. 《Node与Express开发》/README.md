@@ -1,16 +1,24 @@
 # [0017. 《Node与Express开发》](https://github.com/Tdahuyou/nodejs/tree/main/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B)
 
 
-## 📝 summary
+
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 《Node与Express开发》 简介](#3--notes---node与express开发-简介)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
 
 - [《Node与Express开发》 PDF](./Node与Express开发.pdf)
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://book.douban.com/subject/26301434/
   - 豆瓣 - 《Node与Express开发》
 
-## 📒 notes - 《Node与Express开发》 简介
+## 3. 📒 notes - 《Node与Express开发》 简介
 
 - 豆瓣评分（24.10.21）：
   - ![](md-imgs/2024-10-21-02-47-55.png)

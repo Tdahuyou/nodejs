@@ -1,16 +1,21 @@
 # [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B)
 
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 《了不起的Node.js》 简介](#3--notes---了不起的nodejs-简介)
+<!-- endregion:toc -->
 
-## 📝 summary
+## 1. 📝 summary
 
 - [《了不起的Node.js》 PDF](./了不起的Node%20%20js%20%20将JavaScript进行到底.pdf)
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://book.douban.com/subject/25767596/
   - 豆瓣 - 《了不起的Node.js》
 
-## 📒 notes - 《了不起的Node.js》 简介
+## 3. 📒 notes - 《了不起的Node.js》 简介
 
 - 豆瓣评分（24.10.21）：
   - ![](md-imgs/2024-10-21-02-49-44.png)

@@ -1,14 +1,26 @@
 # [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/nodejs/tree/main/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8)
 
+
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - macOS 中的 system_profiler 是什么？](#3--notes---macos-中的-system_profiler-是什么)
+- [4. 📒 notes - plist.js 是什么？有什么用？](#4--notes---plistjs-是什么有什么用)
+- [5. 💻 demo](#5--demo)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
+
 本文介绍了类似 rubick 这样的效率工具，是如何实现本地应用快速检索并启动的。
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://github.com/rubickCenter/rubick - github - rubick。
 - https://rubick.vip/ - rubick 官网。
 - https://www.npmjs.com/package/plist - npm - plist。
 
-## 📒 notes - macOS 中的 system_profiler 是什么？
+## 3. 📒 notes - macOS 中的 system_profiler 是什么？
 
 要在 macOS 下获取安装的应用，其实可以直接使用系统配置概要工具（system_profiler）来实现。**system_profiler 是 macOS 系统中的命令行工具，用于获取系统的各种硬件和软件配置信息。**它能够提供关于电脑硬件、网络、软件以及许多其他系统组件的详尽信息。
 
@@ -59,7 +71,7 @@ $ /usr/sbin/system_profiler -xml -detailLevel mini SPApplicationsDataType
 </dict>
 ```
 
-## 📒 notes - plist.js 是什么？有什么用？
+## 4. 📒 notes - plist.js 是什么？有什么用？
 
 Plist.js 是一个用于解析和构建 Plist（属性列表）文件的工具，适用于 Node.js 和浏览器环境。Plist 文件常用于 macOS 和 iOS 应用程序的编程中，以及 iTunes 配置 XML 文件。
 
@@ -109,7 +121,7 @@ $ /usr/sbin/system_profiler -xml -detailLevel mini SPApplicationsDataType
 
 **system_profiler 打印的内容其实就是可以拿 plist.js 来解析的。**
 
-## 💻 demo
+## 5. 💻 demo
 
 **流程分析**
 

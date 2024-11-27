@@ -1,16 +1,24 @@
 # [0016. 《Node.js来一打C++扩展》](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B)
 
 
-## 📝 summary
+
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 🔗 links](#2--links)
+- [3. 📒 notes - 《Node.js来一打C++扩展》 简介](#3--notes---nodejs来一打c++扩展-简介)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
 
 - [《Node.js来一打C++扩展》 PDF](./Node.js来一打C++扩展.pdf)
 
-## 🔗 links
+## 2. 🔗 links
 
 - https://book.douban.com/subject/30247892/
   - 豆瓣 - 《Node.js来一打C++扩展》
 
-## 📒 notes - 《Node.js来一打C++扩展》 简介
+## 3. 📒 notes - 《Node.js来一打C++扩展》 简介
 
 - 豆瓣评分（24.10.21）：
   - ![](md-imgs/2024-10-21-02-40-33.png)

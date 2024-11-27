@@ -1,15 +1,34 @@
 # [0011. npm 配置文件 .npmrc](https://github.com/Tdahuyou/nodejs/tree/main/0011.%20npm%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%20.npmrc)
 
 
-## 📝 npmrc 全称
+<!-- region:toc -->
+- [1. 📝 summary](#1--summary)
+- [2. 📝 npmrc 全称](#2--npmrc-全称)
+- [3. 🤖 请介绍一下 .npmrc 文件](#3--请介绍一下-npmrc-文件)
+  - [3.1. 常见配置项](#31-常见配置项)
+  - [3.2. 示例](#32-示例)
+    - [3.2.1. 项目级别的 `.npmrc`](#321-项目级别的-npmrc)
+    - [3.2.2. 用户级别的 `.npmrc`](#322-用户级别的-npmrc)
+    - [3.2.3. 全局级别的 `.npmrc`](#323-全局级别的-npmrc)
+  - [3.3. 优先级](#33-优先级)
+  - [3.4. 查看当前配置](#34-查看当前配置)
+  - [3.5. 总结](#35-总结)
+- [4. 🤖 rc 是什么单词的缩写？](#4--rc-是什么单词的缩写)
+  - [4.1. 常见的 `.rc` 文件](#41-常见的-rc-文件)
+  - [4.2. 用途](#42-用途)
+  - [4.3. 具体到 `.npmrc`](#43-具体到-npmrc)
+  - [4.4. 总结](#44-总结)
+<!-- endregion:toc -->
+
+## 1. 📝 summary
+
+## 2. 📝 npmrc 全称
 
 npmrc 全称 node package manager runtime configuration file。
 
 .npmrc 文件，表示 node 包管理器的运行时配置文件。
 
-# 🤖 AI
-
-## 🤖 请介绍一下 .npmrc 文件
+## 3. 🤖 请介绍一下 .npmrc 文件
 
 `.npmrc` 文件是 npm 的配置文件，用于存储 npm 的各种配置选项。这个文件可以存在于多个位置，每个位置的优先级不同，具体如下：
 
@@ -28,7 +47,7 @@ npmrc 全称 node package manager runtime configuration file。
    - 对所有用户和所有项目生效。
    - 通常由系统管理员设置，用于管理全局的 npm 配置。
 
-### 常见配置项
+### 3.1. 常见配置项
 
 以下是一些常见的 `.npmrc` 配置项及其用途：
 
@@ -71,9 +90,9 @@ npmrc 全称 node package manager runtime configuration file。
   - 设置 npm 缓存目录的位置。
   - 例如：`cache=C:\path\to\custom\cache`
 
-### 示例
+### 3.2. 示例
 
-#### 项目级别的 `.npmrc`
+#### 3.2.1. 项目级别的 `.npmrc`
 假设你在项目根目录下有一个 `.npmrc` 文件，内容如下：
 
 ```ini
@@ -88,7 +107,7 @@ https-proxy=http://your-proxy-url:port
 strict-ssl=false
 ```
 
-#### 用户级别的 `.npmrc`
+#### 3.2.2. 用户级别的 `.npmrc`
 假设在你的用户主目录下有一个 `.npmrc` 文件，内容如下：
 
 ```ini
@@ -103,7 +122,7 @@ https-proxy=http://your-proxy-url:port
 save-exact=true
 ```
 
-#### 全局级别的 `.npmrc`
+#### 3.2.3. 全局级别的 `.npmrc`
 假设在全局配置目录下有一个 `.npmrc` 文件，内容如下：
 
 ```ini
@@ -118,7 +137,7 @@ https-proxy=http://your-proxy-url:port
 engine-strict=true
 ```
 
-### 优先级
+### 3.3. 优先级
 
 配置项的优先级从高到低依次为：
 
@@ -129,7 +148,7 @@ engine-strict=true
 5. 全局级别的 `.npmrc`
 6. npm 内置的默认值
 
-### 查看当前配置
+### 3.4. 查看当前配置
 
 你可以使用以下命令来查看当前的 npm 配置：
 
@@ -139,30 +158,30 @@ npm config list
 
 这将列出所有当前生效的配置项及其来源。
 
-### 总结
+### 3.5. 总结
 
 `.npmrc` 文件是一个非常强大的工具，可以帮助你自定义和管理 npm 的行为。通过正确配置 `.npmrc` 文件，你可以优化开发环境，解决网络问题，并提高开发效率。如果你遇到配置问题，可以通过检查这些文件来找到并解决问题。
 
-## 🤖 rc 是什么单词的缩写？
+## 4. 🤖 rc 是什么单词的缩写？
 
 `rc` 是 "run commands" 或 "runtime configuration" 的缩写，通常用于表示配置文件。在 Unix 和类 Unix 系统（如 Linux 和 macOS）中，许多应用程序使用以 `.rc` 结尾的文件来存储配置信息。这种命名约定已经广泛应用于各种工具和软件中。
 
-### 常见的 `.rc` 文件
+### 4.1. 常见的 `.rc` 文件
 - **.bashrc**：Bash shell 的配置文件。
 - **.vimrc**：Vim 文本编辑器的配置文件。
 - **.npmrc**：npm 的配置文件。
 - **.gitconfig** 或 `.gitrc`：Git 的配置文件。
 - **.zshrc**：Zsh shell 的配置文件。
 
-### 用途
+### 4.2. 用途
 这些配置文件通常包含启动时需要执行的命令、环境变量设置、别名定义等。例如：
 
 - **.bashrc** 可能包含用户自定义的 shell 别名、函数和环境变量。
 - **.vimrc** 可能包含 Vim 的插件配置、快捷键映射和编辑器设置。
 - **.npmrc** 包含 npm 的注册表地址、代理设置、认证信息等。
 
-### 具体到 `.npmrc`
+### 4.3. 具体到 `.npmrc`
 对于 `.npmrc` 文件，`rc` 代表 "runtime configuration"，即运行时配置。这个文件用于存储 npm 的各种配置选项，以便自定义 npm 的行为，如设置注册表地址、代理服务器、认证信息等。
 
-### 总结
+### 4.4. 总结
 `rc` 是 "run commands" 或 "runtime configuration" 的缩写，通常用于表示配置文件。`.npmrc` 文件是 npm 的配置文件，用于存储和管理 npm 的各种配置选项。
