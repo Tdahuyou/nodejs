@@ -5,7 +5,7 @@
 <!-- region:toc -->
 - [1. 📝 summary](#1--summary)
 - [2. 🔗 links](#2--links)
-- [3. 📒 notes - 《深入浅出 Node.js》 简介](#3--notes---深入浅出-nodejs-简介)
+- [3. 📒 《深入浅出 Node.js》 简介](#3--深入浅出-nodejs-简介)
 <!-- endregion:toc -->
 
 ## 1. 📝 summary
@@ -18,7 +18,7 @@
 - https://book.douban.com/subject/25768396/
   - 豆瓣 - 深入浅出 Node.js
 
-## 3. 📒 notes - 《深入浅出 Node.js》 简介
+## 3. 📒 《深入浅出 Node.js》 简介
 
 - 《深入浅出 Node.js》 这本书看过一部分，它是 13 年出版的，即便是放到现在来看，依旧能学到不少内容。
 - 豆瓣评分（24.10.21）：

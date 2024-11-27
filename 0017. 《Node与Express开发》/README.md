@@ -5,7 +5,7 @@
 <!-- region:toc -->
 - [1. 📝 summary](#1--summary)
 - [2. 🔗 links](#2--links)
-- [3. 📒 notes - 《Node与Express开发》 简介](#3--notes---node与express开发-简介)
+- [3. 📒 《Node与Express开发》 简介](#3--node与express开发-简介)
 <!-- endregion:toc -->
 
 ## 1. 📝 summary
@@ -18,7 +18,7 @@
 - https://book.douban.com/subject/26301434/
   - 豆瓣 - 《Node与Express开发》
 
-## 3. 📒 notes - 《Node与Express开发》 简介
+## 3. 📒 《Node与Express开发》 简介
 
 - 豆瓣评分（24.10.21）：
   - ![](md-imgs/2024-10-21-02-47-55.png)

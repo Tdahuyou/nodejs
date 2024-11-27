@@ -3,8 +3,8 @@
 <!-- region:toc -->
 - [1. 📝 summary](#1--summary)
 - [2. 🔗 links](#2--links)
-- [3. 📒 notes - 新版 nodejs](#3--notes---新版-nodejs)
-- [4. 📒 notes - 旧版 nodejs](#4--notes---旧版-nodejs)
+- [3. 📒 新版 nodejs](#3--新版-nodejs)
+- [4. 📒 旧版 nodejs](#4--旧版-nodejs)
 <!-- endregion:toc -->
 
 ## 1. 📝 summary
@@ -15,7 +15,7 @@
 
 - https://nodejs.org/en - nodejs 官网文档。
 
-## 3. 📒 notes - 新版 nodejs
+## 3. 📒 新版 nodejs
 
 ![](md-imgs/2024-10-04-19-31-59.png)
 
@@ -30,7 +30,7 @@ $ node -v
 # v20.10.0
 ```
 
-## 4. 📒 notes - 旧版 nodejs
+## 4. 📒 旧版 nodejs
 
 **安装 nodejs**
 
