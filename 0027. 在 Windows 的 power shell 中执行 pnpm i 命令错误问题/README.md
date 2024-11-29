@@ -2,14 +2,20 @@
 
 <!-- region:toc -->
 - [1. 📒 报错日志示例](#1--报错日志示例)
-- [2. 💻 修改 Power Shell 执行策略 - 解决报错](#2--修改-power-shell-执行策略---解决报错)
+- [2. 🔗 en-words](#2--en-words)
+- [3. 💻 修改 Power Shell 执行策略 - 解决报错](#3--修改-power-shell-执行策略---解决报错)
 <!-- endregion:toc -->
 
 ## 1. 📒 报错日志示例
 
 ![](md-imgs/2024-11-29-11-23-06.png)
 
-## 2. 💻 修改 Power Shell 执行策略 - 解决报错
+## 2. 🔗 en-words
+
+- [police](https://github.com/Tdahuyou/en-words/blob/main/police.md)
+- [restrict](https://github.com/Tdahuyou/en-words/blob/main/restrict.md)
+
+## 3. 💻 修改 Power Shell 执行策略 - 解决报错
 
 该问题是由于PowerShell的执行策略设置导致的，该策略限制了脚本的运行。要解决这个问题，可以更改PowerShell的执行策略来允许运行本地脚本。请按照以下步骤操作：
 
