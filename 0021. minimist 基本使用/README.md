@@ -1,14 +1,18 @@
 # [0021. minimist 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
+<!-- region:toc -->
+- [1. 🔗 minimist](#1--minimist)
+- [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](#2--node-1js-args-如何在-1js-中获取到-args)
+<!-- endregion:toc -->
 
-## 🔗 links
+## 1. 🔗 minimist
 
 - https://www.npmjs.com/package/minimist
   - npm minimist
 - https://github.com/minimistjs/minimist
   - github minimist
 
-## 🤖 `node 1.js args` 如何在 1.js 中获取到 args？
+## 2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？
 
 在 Node.js 中，你可以通过 `process.argv` 数组来获取传递给脚本的命令行参数。`process.argv` 是一个数组，包含了当Node.js启动时的命令行参数。数组的第一个元素是运行Node.js的可执行文件的路径，第二个元素通常是正在执行的JavaScript文件的路径。从第三个元素开始，才是你实际传入的参数。
 
@@ -69,3 +73,4 @@ node 1.js arg1 arg2 arg3 --name "John Doe" --age 30
 ```
 
 上述代码将能够正确解析出各个参数。
+

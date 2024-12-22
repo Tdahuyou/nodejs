@@ -2,21 +2,16 @@
 
 
 <!-- region:toc -->
-- [1. 📝 summary](#1--summary)
-- [2. 🔗 links](#2--links)
-- [3. 💻 demo1](#3--demo1)
+- [1. 🔗 links](#1--links)
+- [2. 💻 demo1](#2--demo1)
 <!-- endregion:toc -->
+- 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
 
-## 1. 📝 summary
-
-
-本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
-
-## 2. 🔗 links
+## 1. 🔗 links
 
 - https://support.apple.com/zh-cn/guide/mac-help/mh26782/mac - Apple，macOS 使用手册。查看【 macOS 使用手册】了解有关【在 Mac 上截屏或录屏】的相关内容。
 
-## 3. 💻 demo1
+## 2. 💻 demo1
 
 ```js
 // index.js
@@ -113,3 +108,4 @@ $ screencapture -h
 其中，`2024-03-07-20-39-32.jpg` 就是该程序截取的图片。
 
 ![](md-imgs/2024-10-04-19-21-02.png)
+

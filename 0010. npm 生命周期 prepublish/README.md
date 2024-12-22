@@ -1,13 +1,13 @@
 # [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/nodejs/tree/main/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
 
 <!-- region:toc -->
-- [1. 📝 summary](#1--summary)
+- [1. 💻 demos.1 - npm 生命周期 prepublish 的基本使用](#1--demos1---npm-生命周期-prepublish-的基本使用)
 - [2. 🤖 请介绍一下 package.json 中的 scripts 字段下的 prepublish](#2--请介绍一下-packagejson-中的-scripts-字段下的-prepublish)
   - [2.1. 使用 `prepublishOnly`](#21-使用-prepublishonly)
   - [2.2. 注意事项](#22-注意事项)
 <!-- endregion:toc -->
 
-## 1. 📝 summary
+## 1. 💻 demos.1 - npm 生命周期 prepublish 的基本使用
 
 新建一个 [1.js](./1.js) 模块，内容如下：
 ```js
@@ -67,3 +67,4 @@ console.log('call 1.js')
 - 如果你希望在安装时也执行某些准备步骤（例如编译 TypeScript 代码到 JavaScript），那么可以使用 `prepare` 脚本。
 
 通过这种方式，你可以确保每次发布时都有一致的构建过程，从而提高发布的可靠性和代码的质量。
+
