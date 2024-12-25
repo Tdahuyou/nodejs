@@ -107,7 +107,7 @@
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/nodejs/tree/main/0009.%20koa-static/README.md#1--待搬运)
   
 
-- [x] [0021. minimist 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
+- [ ] [0021. minimist 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
   - [1. 🔗 minimist](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--minimist)
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
   
@@ -219,7 +219,7 @@
   - ⏰ 语雀知识库中存储的视频中演示流程是安装旧版 nodejs 的步骤。最新版的 nodejs 的页面发生了一些变化，可以结合着最新版的 nodejs 来重新录制一下基本的安装流程。
   
 
-- [x] [0021. minimist 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
+- [ ] [0021. minimist 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
   - [1. 🔗 minimist](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--minimist)
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
   
