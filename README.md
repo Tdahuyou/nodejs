@@ -14,7 +14,7 @@
   - [5. npm 相关](#5-npm-相关)
   - [6. nodejs 命令行操作](#6-nodejs-命令行操作)
   - [7. 其他](#7-其他)
-  - [8. ⏰ 待分组](#8--待分组)
+  - [8. 包管理器](#8-包管理器)
 <!-- endregion:toc -->
 
 ## 1. 词库
@@ -31,7 +31,7 @@
 
 - [ ] [0016. 《Node.js来一打C++扩展》](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) <!-- [locale](./0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《Node.js来一打C++扩展》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#2--nodejs来一打c++扩展-简介)
+  - [2. 📒 《Node.js来一打C++扩展》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#2--nodejs来一打c扩展-简介)
   - [《Node.js来一打C++扩展》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/.%2FNode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95.pdf)
   
 
@@ -124,8 +124,8 @@
   - [1. 🔗 nvm](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#1--nvm)
   - [2. 📒 notes](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#2--notes)
   - [3. 💻 demo - `nvm ls` 查看本地安装的所有 nodejs 版本](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#3--demo---nvm-ls-查看本地安装的所有-nodejs-版本)
-  - [4. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#4--demo---nvm-install-<version>-安装指定版本的-nodejs)
-  - [5. `nvm use <version>` 使用指定版本的 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#5-nvm-use-<version>-使用指定版本的-nodejs)
+  - [4. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#4--demo---nvm-install-version-安装指定版本的-nodejs)
+  - [5. `nvm use <version>` 使用指定版本的 nodejs](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#5-nvm-use-version-使用指定版本的-nodejs)
   - [6. 🤖 如何下载 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#6--如何下载-nvm-管理-nodejs-版本)
     - [6.1. 安装 NVM](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#61-安装-nvm)
     - [6.2. 设置 NVM](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC/README.md#62-设置-nvm)
@@ -189,7 +189,7 @@
 ## 6. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md) <!-- [locale](./0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md) -->  
-  - [1. 📒 npm_lifecycle_script 是什么?](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#1--npm_lifecycle_script-是什么?)
+  - [1. 📒 npm_lifecycle_script 是什么?](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#1--npm_lifecycle_script-是什么)
   - [2. 📒 npm_lifecycle_script 的作用](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#2--npm_lifecycle_script-的作用)
   - [3. 💻 运行示例](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#3--运行示例)
   - [4. 💻 demo](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#4--demo)
@@ -242,7 +242,7 @@
   - 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
   
 
-## 8. ⏰ 待分组
+## 8. 包管理器
 
 - [ ] [0027. 在 Windows 的 power shell 中执行 pnpm i 命令错误问题](https://github.com/Tdahuyou/nodejs/tree/main/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) -->  
   - [1. 📒 报错日志示例](https://github.com/Tdahuyou/nodejs/tree/main/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md#1--报错日志示例)

@@ -1,14 +1,165 @@
 {
-    "scripts": {
-        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=nodejs",
-        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=nodejs",
-        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=nodejs",
-        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=nodejs"
-    },
-    "tnotesConfig": {
-      "ignoreDirs": [
-        ".vscode",
-        ".git"
-      ]
+  "scripts": {
+    "distribute": "       node ./node_modules/tnotes   --distributeREADME    --repoName=nodejs",
+    "docs:publish": "     node ./node_modules/tnotes/scripts/docs-publish.js",
+    "merge": "            node ./node_modules/tnotes   --mergeREADME         --repoName=nodejs",
+    "sync": "             node ./node_modules/tnotes   --syncREADME          --repoName=nodejs",
+    "update": "           node ./node_modules/tnotes   --updateREADME        --repoName=nodejs"
+  },
+  "tnotesConfig": {
+    "dirList": {
+      ".git": {
+        "ignore": true
+      },
+      ".vscode": {
+        "ignore": true
+      },
+      "0001": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0002": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0003": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0004": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0005": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0006": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0007": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0008": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0009": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0010": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0011": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0012": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0013": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0014": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0015": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0016": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0017": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0018": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0019": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0020": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0021": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0022": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0023": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0024": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0025": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0026": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0027": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "0028": {
+        "bilibili": [],
+        "done": false,
+        "ignore": false
+      },
+      "assets": {
+        "ignore": true
+      },
+      "md-imgs": {
+        "ignore": true
+      }
     }
+  }
 }

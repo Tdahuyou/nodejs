@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 - [1. 🔗 豆瓣](#1--豆瓣)
-- [2. 📒 《Node.js来一打C++扩展》 简介](#2--nodejs来一打c++扩展-简介)
+- [2. 📒 《Node.js来一打C++扩展》 简介](#2--nodejs来一打c扩展-简介)
 <!-- endregion:toc -->
 - [《Node.js来一打C++扩展》 PDF](./Node.js来一打C++扩展.pdf)
 
