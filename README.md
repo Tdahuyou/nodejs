@@ -26,31 +26,26 @@
 - [ ] [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) <!-- [locale](./0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《深入浅出 Node.js》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#2--深入浅出-nodejs-简介)
-  - [《深入浅出 Node.js》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/.%2F%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
   
 
 - [ ] [0016. 《Node.js来一打C++扩展》](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) <!-- [locale](./0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《Node.js来一打C++扩展》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#2--nodejs来一打c扩展-简介)
-  - [《Node.js来一打C++扩展》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/.%2FNode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95.pdf)
   
 
 - [ ] [0017. 《Node与Express开发》](https://github.com/Tdahuyou/nodejs/tree/main/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md) <!-- [locale](./0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《Node与Express开发》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#2--node与express开发-简介)
-  - [《Node与Express开发》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/.%2FNode%E4%B8%8EExpress%E5%BC%80%E5%8F%91.pdf)
   
 
 - [ ] [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md) <!-- [locale](./0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《Node.js开发指南》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#2--nodejs开发指南-简介)
-  - [《Node.js开发指南》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/.%2FNode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
   
 
 - [ ] [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md) <!-- [locale](./0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《了不起的Node.js》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#2--了不起的nodejs-简介)
-  - [《了不起的Node.js》 PDF](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/.%2F%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%2520%2520js%2520%2520%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95.pdf)
   
 
 ### 2.2. nodejs 掘金小册
@@ -65,6 +60,8 @@
   - https://nodejs.org/en
     - NodeJS 官方文档 - 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
   - ⏰ 过一遍官方文档，在笔记中记录文档的大体结构，以便后续查阅。
+  
+  
   
   
 

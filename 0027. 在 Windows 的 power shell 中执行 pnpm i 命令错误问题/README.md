@@ -43,3 +43,5 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 这将仅影响当前的PowerShell进程，并且在关闭PowerShell窗口后不会保留更改。
 
 请注意，在修改执行策略时应谨慎行事，因为这可能会影响系统的安全性。确保理解每种执行策略的含义和潜在风险。
+
+

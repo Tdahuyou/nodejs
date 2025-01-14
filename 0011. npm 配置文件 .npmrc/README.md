@@ -183,3 +183,5 @@ npm config list
 ### 3.4. 总结
 `rc` 是 "run commands" 或 "runtime configuration" 的缩写，通常用于表示配置文件。`.npmrc` 文件是 npm 的配置文件，用于存储和管理 npm 的各种配置选项。
 
+
+

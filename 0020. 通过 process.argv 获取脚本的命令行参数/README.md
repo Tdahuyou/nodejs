@@ -68,3 +68,5 @@ node 1.js arg1 arg2 arg3 --name "John Doe" --age 30
 
 上述代码将能够正确解析出各个参数。
 
+
+
