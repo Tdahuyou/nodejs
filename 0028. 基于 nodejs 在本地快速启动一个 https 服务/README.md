@@ -90,7 +90,7 @@ node server.js
 
 > 会发现 Chrome 浏览器会提示这个链接是不安全的，有些业务可能必须要求得是 HTTPS 服务，并且要求浏览器不能有安全警告（否则某些浏览器提供的 API 的使用可能会受限）。
 
-::: details [🔍 关于如何让浏览器相信本地 HTTPS 服务是安全的说明]
+::: details 【 🔍 关于如何让浏览器相信本地 HTTPS 服务是安全的说明】
 - [allow-insecure-localhost has been removed as of Chrome 119](https://support.google.com/chrome/thread/241869686/allow-insecure-localhost-has-been-removed-as-of-chrome-119?hl=en)
 - 这是 chrome 社区中的一篇文章，提到了在 chrome 119 版本之后，不允许使用自签名证书。有很多开发者吐槽这一配置的移除对他们开发造成的影响很大。
 - 解决方案：
