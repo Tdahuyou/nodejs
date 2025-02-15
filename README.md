@@ -1,8 +1,8 @@
 # nodejs
 
 <!-- region:toc -->
+
 - [nodejs](#nodejs)
-  - [1. 词库](#1-词库)
   - [2. nodejs 学习资源](#2-nodejs-学习资源)
     - [2.1. nodejs 书籍](#21-nodejs-书籍)
     - [2.2. nodejs 掘金小册](#22-nodejs-掘金小册)
@@ -15,14 +15,12 @@
   - [6. nodejs 命令行操作](#6-nodejs-命令行操作)
   - [7. 其他](#7-其他)
   - [8. 包管理器](#8-包管理器)
-<!-- endregion:toc -->
-
-## 1. 词库
-
-- [ ] [0028. en-words](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20en-words/README.md) <!-- [locale](./0028.%20en-words/README.md) -->  
+  <!-- endregion:toc -->
 
 ## 2. nodejs 学习资源
+
 ### 2.1. nodejs 书籍
+
 - [ ] [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) <!-- [locale](./0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--豆瓣)
   - [2. 📒 《深入浅出 Node.js》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#2--深入浅出-nodejs-简介)
@@ -49,6 +47,7 @@
   
 
 ### 2.2. nodejs 掘金小册
+
 - [ ] [0022. 《Node.js 入门教程》（免费掘金小册）](https://github.com/Tdahuyou/nodejs/tree/main/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) <!-- [locale](./0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) -->  
   - [1. 🔗 掘金小册](https://github.com/Tdahuyou/nodejs/tree/main/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md#1--掘金小册)
   - [2. 📒 教程目录](https://github.com/Tdahuyou/nodejs/tree/main/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md#2--教程目录)
@@ -56,6 +55,7 @@
   
 
 ### 2.3. 其他免费在线学习资源
+
 - [ ] [0026. nodejs 官方文档](https://github.com/Tdahuyou/nodejs/tree/main/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) <!-- [locale](./0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) -->  
   - https://nodejs.org/en
     - NodeJS 官方文档 - 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
@@ -70,6 +70,14 @@
   
 
 ## 3. nodejs 内置模块
+
+### https
+
+- [ ] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md) <!-- [locale](./0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md) -->  
+  - [1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#1--运行-https-服务的前提条件---证书--私钥)
+  - [2. 📒 安装工具 - OpenSSL](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#2--安装工具---openssl)
+  - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
+  
 
 ### 3.1. process
 
