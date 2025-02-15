@@ -82,7 +82,7 @@ node server.js
 
 - 最终效果：
 
-::: slider
+::: swiper
 ![](assets/2025-02-15-10-36-58.png)
 ![](assets/2025-02-15-10-37-02.png)
 ![](assets/2025-02-15-10-37-07.png)
