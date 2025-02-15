@@ -1,25 +1,25 @@
 # nodejs
 
 <!-- region:toc -->
-
 - [nodejs](#nodejs)
-  - [2. nodejs 学习资源](#2-nodejs-学习资源)
-    - [2.1. nodejs 书籍](#21-nodejs-书籍)
-    - [2.2. nodejs 掘金小册](#22-nodejs-掘金小册)
-    - [2.3. 其他免费在线学习资源](#23-其他免费在线学习资源)
-  - [3. nodejs 内置模块](#3-nodejs-内置模块)
-    - [3.1. process](#31-process)
-    - [3.2. crypto](#32-crypto)
-  - [4. koa](#4-koa)
-  - [5. npm 相关](#5-npm-相关)
-  - [6. nodejs 命令行操作](#6-nodejs-命令行操作)
-  - [7. 其他](#7-其他)
-  - [8. 包管理器](#8-包管理器)
-  <!-- endregion:toc -->
+  - [1. nodejs 学习资源](#1-nodejs-学习资源)
+    - [1.1. nodejs 书籍](#11-nodejs-书籍)
+    - [1.2. nodejs 掘金小册](#12-nodejs-掘金小册)
+    - [1.3. 其他免费在线学习资源](#13-其他免费在线学习资源)
+  - [2. nodejs 内置模块](#2-nodejs-内置模块)
+    - [2.1. https](#21-https)
+    - [2.2. process](#22-process)
+    - [2.3. crypto](#23-crypto)
+  - [3. koa](#3-koa)
+  - [4. npm 相关](#4-npm-相关)
+  - [5. nodejs 命令行操作](#5-nodejs-命令行操作)
+  - [6. 其他](#6-其他)
+  - [7. 包管理器](#7-包管理器)
+<!-- endregion:toc -->
 
-## 2. nodejs 学习资源
+## 1. nodejs 学习资源
 
-### 2.1. nodejs 书籍
+### 1.1. nodejs 书籍
 
 - [ ] [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) <!-- [locale](./0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) -->  
   - [1. 🔗 豆瓣](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--豆瓣)
@@ -46,7 +46,7 @@
   - [2. 📒 《了不起的Node.js》 简介](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#2--了不起的nodejs-简介)
   
 
-### 2.2. nodejs 掘金小册
+### 1.2. nodejs 掘金小册
 
 - [ ] [0022. 《Node.js 入门教程》（免费掘金小册）](https://github.com/Tdahuyou/nodejs/tree/main/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) <!-- [locale](./0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) -->  
   - [1. 🔗 掘金小册](https://github.com/Tdahuyou/nodejs/tree/main/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md#1--掘金小册)
@@ -54,7 +54,7 @@
   - Node.js 0基础入门教程，涵盖了软件的安装，环境配置，基础知识介绍，进阶知识介绍，多场景的开发实践 ღ( ´･ᴗ･` )
   
 
-### 2.3. 其他免费在线学习资源
+### 1.3. 其他免费在线学习资源
 
 - [ ] [0026. nodejs 官方文档](https://github.com/Tdahuyou/nodejs/tree/main/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) <!-- [locale](./0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md) -->  
   - https://nodejs.org/en
@@ -69,9 +69,9 @@
   - [1. 🔗 菜鸟教程 nodejs 链接](https://github.com/Tdahuyou/nodejs/tree/main/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README.md#1--菜鸟教程-nodejs-链接)
   
 
-## 3. nodejs 内置模块
+## 2. nodejs 内置模块
 
-### https
+### 2.1. https
 
 - [ ] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md) <!-- [locale](./0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md) -->  
   - [1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#1--运行-https-服务的前提条件---证书--私钥)
@@ -79,7 +79,7 @@
   - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://github.com/Tdahuyou/nodejs/tree/main/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
   
 
-### 3.1. process
+### 2.2. process
 
 - [ ] [0001. 使用 process 模块来区分不同的操作系统](https://github.com/Tdahuyou/nodejs/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md) <!-- [locale](./0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md) -->  
   - [1. 💻 demos.1 - 通过 process.platform 中记录的当前平台信息来区分不同的操作系统](https://github.com/Tdahuyou/nodejs/tree/main/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md#1--demos1---通过-processplatform-中记录的当前平台信息来区分不同的操作系统)
@@ -91,7 +91,7 @@
   - process.argv
   
 
-### 3.2. crypto
+### 2.3. crypto
 
 - [ ] [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/Tdahuyou/nodejs/tree/main/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md) <!-- [locale](./0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md) -->  
   - [1. ⏰ 待整理](https://github.com/Tdahuyou/nodejs/tree/main/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md#1--待整理)
@@ -102,7 +102,7 @@
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://github.com/Tdahuyou/nodejs/tree/main/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md#1--语雀上记录了一些内容找时间搬运过来)
   
 
-## 4. koa
+## 3. koa
 
 - [ ] [0008. koa-send](https://github.com/Tdahuyou/nodejs/tree/main/0008.%20koa-send/README.md) <!-- [locale](./0008.%20koa-send/README.md) -->  
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/nodejs/tree/main/0008.%20koa-send/README.md#1--待搬运)
@@ -117,7 +117,7 @@
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
   
 
-## 5. npm 相关
+## 4. npm 相关
 
 - [ ] [0012. 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/nodejs/tree/main/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md) <!-- [locale](./0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md) -->  
   
@@ -191,7 +191,7 @@
   - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
   
 
-## 6. nodejs 命令行操作
+## 5. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md) <!-- [locale](./0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md) -->  
   - [1. 📒 npm_lifecycle_script 是什么?](https://github.com/Tdahuyou/nodejs/tree/main/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#1--npm_lifecycle_script-是什么)
@@ -229,7 +229,7 @@
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/nodejs/tree/main/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
   
 
-## 7. 其他
+## 6. 其他
 
 - [ ] [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/nodejs/tree/main/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md) <!-- [locale](./0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md) -->  
   
@@ -247,7 +247,7 @@
   - 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
   
 
-## 8. 包管理器
+## 7. 包管理器
 
 - [ ] [0027. 在 Windows 的 power shell 中执行 pnpm i 命令错误问题](https://github.com/Tdahuyou/nodejs/tree/main/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) -->  
   - [1. 📒 报错日志示例](https://github.com/Tdahuyou/nodejs/tree/main/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md#1--报错日志示例)
